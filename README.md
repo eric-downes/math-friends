@@ -16,6 +16,8 @@ will render latex within markdown, e.g. look at the source to see ho I did this:
 
 Right now we're doing group theory
 
+### Topics
+
 1. Zhu's Theorem
    1. first topic
    1. second topic
@@ -27,3 +29,12 @@ Right now we're doing group theory
 1. Dinkin Diagrams
    1. first topic
    1. second topic
+
+### Texts
+
+* [Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X/) (eric)
+* [Schaum's outline](https://www.amazon.com/Schaums-Outline-Group-Theory-Baumslag/dp/0070041245) (eric)
+
+
+
+
