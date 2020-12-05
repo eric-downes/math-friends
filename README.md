@@ -19,14 +19,16 @@ Right now we're doing group theory
 ### Topics
 
 1. Zhu's Theorem
-   1. first topic
-   1. second topic
+   1. definition of SIC-POVMs
+   2. Weyl--Heisenberg group
+   3. Sylow's theorem
+   4. Proof that group covariance implies Weyl--Heisenberg in prime dimensions
 
 1. Cayley Diagrams
    1. first tpic
    1. second topic
 
-1. Dinkin Diagrams
+1. Dynkin Diagrams
    1. first topic
    1. second topic
 
@@ -34,7 +36,7 @@ Right now we're doing group theory
 
 * [Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X/) (eric)
 * [Schaum's outline](https://www.amazon.com/Schaums-Outline-Group-Theory-Baumslag/dp/0070041245) (eric)
-
+* [Zhu (2010)](https://arxiv.org/abs/1003.3591v2) (blake)
 
 
 
