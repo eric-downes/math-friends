@@ -4,7 +4,10 @@
 
 (This)[https://guides.github.com/features/mastering-markdown/] will help you write basic markdown.
 
-This code `<img src="https://latex.codecogs.com/svg.latex?MATH_EQUATION" title="MATH_EQUATION"/>` will render latex within markdown, e.g. look at the source to see ho I did this:
+This code 
+```<img src="https://latex.codecogs.com/svg.latex?MATH_EQUATION" title="MATH_EQUATION"/>``` 
+will render latex within markdown, e.g. look at the source to see ho I did this:
+
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
