@@ -2,7 +2,7 @@
 
 ## Guides
 
-(This)[https://guides.github.com/features/mastering-markdown/] will help you write basic markdown.
+[This](https://guides.github.com/features/mastering-markdown/) will help you write basic markdown.
 
 This code 
 ```<img src="https://latex.codecogs.com/svg.latex?MATH_EQUATION" title="MATH_EQUATION"/>``` 
