@@ -4,9 +4,9 @@
 
 Right now we're doing group theory
 
-- Zhu's Theorem
--- first topic
--- second topic
+1. Zhu's Theorem
+ 1. first topic
+ 1. second topic
 
 - Cayley Diagrams
 -- first tpic
