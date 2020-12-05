@@ -32,12 +32,15 @@ Right now we're doing group theory
    1. first topic
    1. second topic
 
-### Texts
+### Resources
 
+Texts
 * [Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X/) (eric)
 * [Schaum's outline](https://www.amazon.com/Schaums-Outline-Group-Theory-Baumslag/dp/0070041245) (eric)
+Articles
 * [Zhu (2010)](https://arxiv.org/abs/1003.3591v2) (blake)
 * [Fuchs, Hoang and Stacey (2017)](https://arxiv.org/abs/1703.07901) (blake)
-
+Software
+* [Group Explorer](https://github.com/nathancarter/group-explorer)
 
 
