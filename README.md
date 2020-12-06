@@ -32,6 +32,7 @@ Right now we're doing group theory
       1. Subgroups, Cosets
       1. Permutations vs Endomorphisms vs Automorphsims
       1. Symmetric Group
+      1. Vertex transitivity vs. symmetry
       1. (Optional) Burnside's Lemma
       1. (Op) Polya's counting thm
       1. (Op) Cores of more general groups with examples
