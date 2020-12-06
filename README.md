@@ -53,11 +53,7 @@ Right now we're doing group theory
       1. (Op) Connection with chemistry / crystallography
       1. (Op) Weyl--Heisenberg groups
       1. Flash cards
-
-1. Dynkin Diagrams
-   1. first topic
-   1. second topic
-
+      
 ### Resources
 
 Texts
