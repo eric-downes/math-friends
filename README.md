@@ -24,6 +24,9 @@ Right now we're doing group theory
    3. Sylow's theorem
    4. Proof that group covariance implies Weyl--Heisenberg in prime dimensions
 
+1. Building up the unitary group
+   1. Nielsen and Chuang, section 4.5
+   
 1. Diagrams (eric)
    1. Cayley Diagrams / Cayley's Thm
       1. Vocabulaty: Groups Actions vs Generators vs elements vs mappings etc.
