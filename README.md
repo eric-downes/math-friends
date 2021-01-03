@@ -1,18 +1,19 @@
 # Math Friends
 
-Test: $x^2+y^2=z^2$
-
 ## Guides
 
-[This](https://guides.github.com/features/mastering-markdown/) will help you write basic markdown.
+$\LaTeX$!  (Recommended)
+1. Use Chrome (or Brave etc)
+1. Install [this plugin](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
+
+Alternately:
+[This](https://guides.github.com/features/mastering-markdown/) will help you write basic markdown with no plugins.
 
 This code 
 ```<img src="https://latex.codecogs.com/svg.latex?MATH_EQUATION"/>``` 
 will render latex within markdown, e.g. look at the source to see how I did this:
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/>
-
-
 
 ## Current Topic
 
