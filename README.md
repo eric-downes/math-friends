@@ -1,5 +1,7 @@
 # Math Friends
 
+Test: $x^2+y^2=z^2$
+
 ## Guides
 
 [This](https://guides.github.com/features/mastering-markdown/) will help you write basic markdown.
